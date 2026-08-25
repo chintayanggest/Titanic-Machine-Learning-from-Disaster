@@ -33,4 +33,6 @@ Using `GridSearchCV`, the top models were aggressively fine-tuned.
 ## 📁 Repository Structure
 * `/data` - Contains the train and test CSV files.
 * `/notebooks` - The core Jupyter Notebook containing EDA, engineering, and tuning.
+* '/results' - The submissions
 * `GLOSSARIUM.md` - A master document of Data Science strategies, mental models, and lessons learned during this project.
+* 'README.md' - Project Description
